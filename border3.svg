@@ -1,0 +1,33 @@
+<svg width="306" height="396" viewBox="0 0 306 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_5162_17)">
+<path d="M306 10C306 4.47715 301.523 0 296 0H10.2609C4.73801 0 0.260864 4.47715 0.260864 10V368.83C0.260864 374.135 4.40302 378.517 9.69934 378.814L295.439 394.884C301.173 395.207 306 390.644 306 384.9V10Z" fill="white" fill-opacity="0.04"/>
+</g>
+<rect opacity="0.6" width="231.652" height="1.04348" transform="matrix(-1 0 0 1 269.479 0)" fill="url(#paint0_radial_5162_17)"/>
+<rect opacity="0.6" width="232.545" height="1.70989" transform="matrix(-0.997564 -0.0697565 -0.0697565 0.997564 269.133 391.867)" fill="url(#paint1_radial_5162_17)"/>
+<rect opacity="0.6" width="307.826" height="2.08696" transform="matrix(0 -1 -1 0 306 350.609)" fill="url(#paint2_radial_5162_17)"/>
+<rect opacity="0.6" width="273.391" height="3.13043" transform="matrix(0 -1 -1 0 3.3916 333.913)" fill="url(#paint3_radial_5162_17)"/>
+<defs>
+<filter id="filter0_b_5162_17" x="-3.73926" y="-4" width="313.739" height="402.9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_5162_17"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_5162_17" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_5162_17" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(115.826 0.521739) scale(115.826 0.521739)">
+<stop stop-color="white"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_5162_17" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(116.273 0.854945) scale(116.273 0.854945)">
+<stop offset="0.439818" stop-color="white"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_5162_17" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(153.913 1.04348) scale(153.913 1.04348)">
+<stop stop-color="white"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint3_radial_5162_17" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(136.696 1.56522) scale(136.696 1.56522)">
+<stop offset="0.520095" stop-color="white"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
