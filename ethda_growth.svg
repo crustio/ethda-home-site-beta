@@ -1,0 +1,79 @@
+<svg width="200" height="360" viewBox="0 0 582 636" style="background:#000" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <path width="10" height="10" id="ethda_arrow" d="M0 2L5 8L10 2" stroke-linecap="round" stroke-width="1.6" />
+    </defs>
+    <path d="M250 30L76 30L76 114M76 210L76 330L223 330M330 330L506 330L506 222M506 120L506 30L333 30" stroke="white"
+        stroke-width="1" stroke-dasharray="4 4" fill="none">
+        <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="2s" repeatCount="indefinite" />
+    </path>
+    <path
+        d="M291 260L30 260L30 400M30 470L30 560L62 560M220 560L254 560M291 530L291 352M291 300L291 260L552 260L552 400M552 470L552 560L505 560M350 560L323 560"
+        stroke="#E08900" stroke-width="1" stroke-dasharray="4 4" fill="none">
+        <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="2s" repeatCount="indefinite" />
+    </path>
+    <g transform="translate(263, 2)">
+        <image xlink:href="/users.svg" width="50" height="50" x="0" y="0" />
+        <text text-anchor="middle" x="25" y="75" font-size="14" fill="white">Users</text>
+    </g>
+    <use xlink:href="#ethda_arrow" transform="translate(330, 25) rotate(90,5,5)" stroke="white" />
+
+    <g transform="translate(52, 130)">
+        <image xlink:href="/layer2s.svg" width="50" height="50" x="0" y="0" />
+        <text text-anchor="middle" x="25" y="75" font-size="14" fill="white">Layer2s</text>
+    </g>
+    <use xlink:href="#ethda_arrow" transform="translate(71, 110)" stroke="white" />
+    <g transform="translate(481, 130)">
+        <image xlink:href="/datainterface.svg" width="50" height="50" x="0" y="0" />
+        <text text-anchor="middle" x="0" y="75" font-size="14" fill="white">Data Onchain Interface</text>
+    </g>
+    <use xlink:href="#ethda_arrow" transform="translate(501, 220) rotate(180,5,5)" stroke="white" />
+
+
+    <image xlink:href="ethDA.png" width="109" height="24" x="236.5" y="316" style="background:#000" />
+    <use xlink:href="#ethda_arrow" transform="translate(220, 325) rotate(-90,5,5)" stroke="white" />
+    <use xlink:href="#ethda_arrow" transform="translate(286, 292) rotate(0,5,5)" stroke="#E08900" />
+    <use xlink:href="#ethda_arrow" transform="translate(286, 349) rotate(180,5,5)" stroke="#E08900" />
+
+
+    <text x="90" y="56" fill="white">Tx</text>
+    <text x="90" y="310" fill="white">Blobs</text>
+    <text x="492" y="56" fill="white" text-anchor="end">Accessible</text>
+    <text x="492" y="310" fill="white" text-anchor="end">Agg.Data</text>
+
+    <text x="295" y="452" fill="#E08900">Pos</text>
+
+    <g transform="translate(5, 420)">
+        <image xlink:href="/y-users.svg" width="50" height="50" x="0" y="0" />
+        <text x="70" y="32" font-size="14" fill="#E08900">Benefit-Sharing</text>
+    </g>
+    <use xlink:href="#ethda_arrow" transform="translate(25, 392) rotate(0,5,5)" stroke="#E08900" />
+    <use xlink:href="#ethda_arrow" transform="translate(547, 392) rotate(0,5,5)" stroke="#E08900" />
+    <g transform="translate(527, 420)">
+        <image xlink:href="/y-users.svg" width="50" height="50" x="0" y="0" />
+        <text x="-20" y="32" font-size="14" fill="#E08900" text-anchor="end">Protocal Incentive</text>
+    </g>
+
+    <use xlink:href="#ethda_arrow" transform="translate(60, 555) rotate(-90,5,5)" stroke="#E08900" />
+    <use xlink:href="#ethda_arrow" transform="translate(250, 555) rotate(-90,5,5)" stroke="#E08900" />
+    <use xlink:href="#ethda_arrow" transform="translate(322, 555) rotate(90,5,5)" stroke="#E08900" />
+    <use xlink:href="#ethda_arrow" transform="translate(500, 555) rotate(90,5,5)" stroke="#E08900" />
+
+    <g transform="translate(80, 545)">
+        <rect width="140" height="30" x="0" y="0" rx="15" stroke="#E08900" />
+        <text x="70" y="20" font-size="14" fill="#E08900" text-anchor="middle">Dual-Stake</text>
+        <text x="70" y="60" font-size="14" fill="#E08900" text-anchor="middle">L2 Native Token</text>
+    </g>
+    <g transform="translate(350, 545)">
+        <rect width="140" height="30" x="0" y="0" rx="15" stroke="#E08900" />
+        <text x="70" y="20" font-size="14" fill="#E08900" text-anchor="middle">PoS Stake</text>
+        <text x="70" y="60" font-size="14" fill="#E08900" text-anchor="middle">Restake ETH</text>
+    </g>
+
+    <g transform="translate(267, 536)">
+        <rect width="50" height="70" x="0" y="-20" />
+        <image xlink:href="/das.svg" width="50" height="50" x="0" y="0" />
+        <text x="25" y="70" font-size="14" fill="#E08900" text-anchor="middle">DAS Nodes</text>
+    </g>
+
+
+</svg>
